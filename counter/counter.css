@@ -1,0 +1,58 @@
+.container {
+    background-color: aquamarine;
+    height: 30vh;
+    width: 30%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+
+#increment,
+#decrement,
+#reset {
+    width: 20%;
+    height: 20%;
+    margin-top: 160px;
+    margin-left: 55px;
+    border: none;
+    border-radius: 10px;
+}
+
+#counter {
+    background-color: aquamarine;
+    margin: auto;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+/* container 2 */
+.container1 {
+    background-color: aquamarine;
+    height: 30vh;
+    width: 30%;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+
+#increment1,
+#decrement1,
+#reset1 {
+    width: 20%;
+    height: 20%;
+    margin-top: 160px;
+    margin-left: 55px;
+    border: none;
+    border-radius: 10px;
+}
+
+#counter1 {
+    background-color: aquamarine;
+    margin: auto;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 10px;
+}

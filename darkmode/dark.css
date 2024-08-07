@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.container2{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+button{
+    width: 5%;
+        height: 43px;
+        margin-top: 12px;
+        border: none;
+        background-color: cornflowerblue;
+            border-radius: 8px;
+}
+
+
+body{
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+}
+body.dark-mode{
+    background-color: black;
+    color: white;
+}
+body.dark-mode button{
+    background-color: antiquewhite;
+    transition: background-color 0.3s, color 0.3s;
+}
